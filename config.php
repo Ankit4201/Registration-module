@@ -4,7 +4,7 @@ This files contains database configuration assuming you are running mysql using 
 */
 define('DB_SERVER','localhost');
 define('DB_USERNAME','root');
-define('DB_PASSWORD','Onlychance@02');
+define('DB_PASSWORD','');
 define('DB_NAME','login');
 
 //connecting to database
